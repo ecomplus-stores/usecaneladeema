@@ -3,6 +3,23 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner1.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner2.png"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
