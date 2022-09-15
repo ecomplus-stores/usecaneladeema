@@ -38,6 +38,21 @@
       "limit": 12,
       "collection_id": "61abee690c7c727225b7277d:collections:LANÇAMENTOS:/lancamentos",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "collection_id": "620a84287963422eee01677c:categories:SALE:/sale",
+      "title": "SALE",
+      "link": "/sale"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
