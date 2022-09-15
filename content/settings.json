@@ -1,7 +1,7 @@
 {
   "domain": "usecaneladeema.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,9 +17,9 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#000000",
+  "icon": "/img/uploads/canela.png",
   "store_id": 12534,
   "description": "usecaneladeema",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/canela.png"
 }
