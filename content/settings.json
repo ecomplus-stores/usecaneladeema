@@ -1,6 +1,5 @@
 {
   "domain": "usecaneladeema.com.br",
-"repository": "ecomplus-stores/usecaneladeema",
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
@@ -8,8 +7,9 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/usecaneladeema",
   "logo": "/img/uploads/canela.png",
-  "name": "Peças exclusivas para mulheres únicas",
+  "name": "Peças exclusivas para mulheres únicas.",
   "short_name": "usecaneladeema",
   "lang": "pt_br",
   "currency": "BRL",
@@ -21,6 +21,6 @@
   "secondary_color": "#000000",
   "icon": "/img/uploads/canela.png",
   "store_id": 12534,
-  "description": "usecaneladeema",
+  "description": "Seu nome é inspirado na flor do cerrado, Canela de Ema. Símbolo de beleza e resiliência, a flor renasce e resiste, ano após ano, no meio das pedras, do solo árido e da falta d’água. Assim como a planta, a marca se estabelece como um ponto de luz para todas as mulheres que não se encaixam nos moldes estabelecidos, sem perder sua e \nbeleza natural. \nNa Canela de Ema, prezamos pelo conforto e estilo, com uma produção artesanal, confecção própria, e matéria prima de qualidade. Não somos uma marca fast fashion, pois buscamos sempre o cuidado com o meio ambiente e a redução do consumo exacerbado. \nNossas coleções são sazonais, e seguem estudos e análises de tendencias nas passarelas.\nE, acima de tudo, nos inspiramos em corpos reais e usamos grades maiores, que valorizam o que há de único e especial em todas nós.",
   "large_icon": "/img/uploads/canela.png"
 }
