@@ -5,22 +5,12 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner1.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/banner2.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/12534-new-drop-2-2-1-compressed.jpg"
         }
       ]
     },
