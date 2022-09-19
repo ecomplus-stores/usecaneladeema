@@ -1,7 +1,7 @@
 {
   "domain": "usecaneladeema.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#feede8",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
