@@ -36,7 +36,7 @@
     "hipercard": false,
     "hsbc": false,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
     "citibank": false,
     "mais": false,
