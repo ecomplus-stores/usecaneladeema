@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "link": ""
   },
   "installments": {
     "show": true,
@@ -12,7 +13,7 @@
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
