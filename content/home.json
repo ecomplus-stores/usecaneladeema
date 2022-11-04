@@ -27,19 +27,19 @@
     },
     {
       "page": 1,
-      "title": "LANÇAMENTOS",
+      "title": "NEWS",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "/lancamentos",
       "limit": 12,
-      "collection_id": "6328c7bd73321213f87f1f7d:categories:Birthday Collection:/birthday-collection",
+      "collection_id": "6364754573321213f8c92c61:categories:NEWS:/news",
       "sort": "news"
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "lowest_price"
+      "sort": "views"
     }
   ]
 }
