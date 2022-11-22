@@ -9,11 +9,13 @@
     "text": "Parcele em até 10x sem juros"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Em caso de duvidas chame o nosso suporte! <3",
+    "link": "https://chat.whatsapp.com/K6EKrbjVSjvLQGtK0nCNit"
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "Nas compras acima de R$350,00 ganhe um óculos-de-sol! <3",
+    "link": "https://chat.whatsapp.com/K6EKrbjVSjvLQGtK0nCNit"
   }
 }
