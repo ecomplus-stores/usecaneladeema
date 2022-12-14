@@ -40,6 +40,10 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "lowest_price"
+    },
+    {
+      "type": "custom-html",
+      "html": "<meta name=\"p:domain_verify\" content=\"573b371d18834cbbcb6e02db3305fde7\"/>"
     }
   ]
 }
